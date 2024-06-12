@@ -1,3 +1,5 @@
+# Basic Monte Carlo Simulation
+
 This is a basic Monte Carlo simulation that uses the yfinance API to generate a set of paths that it then plots in matplotlib.
 
 I don't really understand options so the default paramaters are likely wildly off.
